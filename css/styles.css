@@ -1,0 +1,12 @@
+body {
+    height: 850px;
+    background-color: green;
+    background-image: url(../imges/house.jpg) , 
+    url(../imges/eghik.webp) , 
+    url(..//imges/grass.png) ,
+    url(../imges/lamp.png) ,
+    url(../imges/donut.jpg);
+    background-repeat: no-repeat , repeat-y , repeat-x , repeat-x , repeat-y ;
+    background-position: center , left , bottom , top , right;
+    background-size: auto , 50px , 500px , 75px , 50px ;
+}
